@@ -18,7 +18,7 @@ export default {
 </script>
 
 <template>
-    <div class="absolute bg-white w-48 left-0 rounded z-20 shadow mt-2">
+    <div class="absolute bg-white w-52 left-0 rounded z-20 shadow mt-2">
         <MenuListItem 
             v-for="item in items"
             :label="item.label" 

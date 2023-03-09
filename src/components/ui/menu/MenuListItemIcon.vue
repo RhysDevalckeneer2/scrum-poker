@@ -9,5 +9,5 @@ export default {
 </script>
 
 <template>
-    <i :class="['pi', iconName, 'mr-2']"></i>
+    <i :class="['pi', iconName, 'mr-2.5']"></i>
 </template>
